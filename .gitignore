@@ -7,6 +7,7 @@
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
 MemoryCaptures/
+Recordings/
 
 # Asset Store Tools
 [Aa]ssets/AssetStoreTools*
@@ -22,3 +23,17 @@ MemoryCaptures/
 # OS generated files
 .DS_Store
 Thumbs.db
+
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Unity3D generated file on crash reports
+sysinfo.txt
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+*.app
